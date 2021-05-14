@@ -1,5 +1,5 @@
 # Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery
-This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery"!
+This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery".
 
 For more information of this project, please refer to our paper: 
 
