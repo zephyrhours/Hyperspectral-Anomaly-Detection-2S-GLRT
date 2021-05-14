@@ -3,7 +3,7 @@ This is the code of paper named "Multipixel Anomaly Detection With Unknown Patte
 
 For more information of this project, please refer to our paper: 
 
-Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Danilo Orlando and Hongbin Li. [Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery](https://ieeexplore.ieee.org/abstract/document/9404853)[J]. IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026. [Second author]
+Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Danilo Orlando and Hongbin Li. [Multipixel Anomaly Detection With Unknown Patterns for Hyperspectral Imagery](https://ieeexplore.ieee.org/abstract/document/9404853) [J]. IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3071026. [Second author]
 
 
 # Prerequisites:
