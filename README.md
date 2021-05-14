@@ -16,7 +16,7 @@ matlab R2018b
 
 [3] **Zengfu Hou**, Wei Li, Lianru Gao, Bing Zhang, Pengge Ma, and Junlin Sun. [A BACKGROUND REFINEMENT COLLABORATIVE REPRESENTATION METHOD WITH SALIENCY WEIGHT FOR HYPERSPECTRAL ANOMALY DETECTION. International Geoscience and Remote Sensing.](https://ieeexplore.ieee.org/abstract/document/9324521) (2020) [Oral]
 
-[4] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. [Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection](https://engine.scichina.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-020-2915-2?slug=abstract)[J]. SCIENCE CHINA Information Sciences. 2020.
+[4] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. [Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection](https://engine.scichina.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-020-2915-2?slug=abstract) [J]. SCIENCE CHINA Information Sciences. 2020.
 
 
 # My Personal Website:
