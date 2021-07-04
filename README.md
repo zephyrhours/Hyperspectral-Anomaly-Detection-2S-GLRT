@@ -19,7 +19,7 @@ matlab R2018b
 [4] **Zengfu Hou**, Wei Li, Ran Tao, Pengge Ma, and Weihua Shi. [Collaborative Representation with Background Purification and Saliency Weight for Hyperspectral Anomaly Detection](https://engine.scichina.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-020-2915-2?slug=abstract) [J]. SCIENCE CHINA Information Sciences. 2020.
 
 
-# My Personal Website:
+# Website:
 1.Github Website: [https://zephyrhours.github.io/](https://zephyrhours.github.io/)
 
 2.Chinese CSDN Blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
