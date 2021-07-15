@@ -7,7 +7,7 @@ Jun Liu, **Zengfu Hou**, Wei Li, Ran Tao, Danilo Orlando and Hongbin Li. [Multip
 
 
 # Prerequisites:
-matlab R2018b
+matlab R2018a
 
 # Other Related Papers:
 [1] Kun Tan, **Zengfu Hou**, Fuyu Wu,Qian Du, and Yu Chen. [Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation](https://www.mdpi.com/2072-4292/11/11/1318). [J]. Remote Sensing 2019, 11(11): 1318. [Co-first author]
