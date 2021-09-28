@@ -53,4 +53,4 @@ J. Liu, Z. Hou, W. Li, R. Tao, D. Orlando and H. Li, "Multipixel Anomaly Detecti
 2.Chinese CSDN Blog: [https://blog.csdn.net/NBDwo](https://blog.csdn.net/NBDwo)
 
 # Contact
-**Email:** zengf.hou@bit.edu.cn
+If you have any other questions, you can send it to my email (See Github Website). I will get back to you as soon as possible!
